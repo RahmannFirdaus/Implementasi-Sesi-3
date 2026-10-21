@@ -1,7 +1,6 @@
 # 🗺️ GIS Asset Management Processor
 
 > **Automasi Pengolahan & Integrasi Data Aset Infrastruktur Publik**  
-> Tugas Implementasi Sesi 3 — Semester 7
 
 ---
 
