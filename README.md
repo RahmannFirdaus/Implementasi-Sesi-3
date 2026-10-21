@@ -156,7 +156,7 @@ Script ini dilengkapi dengan 3 data sampel hasil simulasi survey lapangan di are
 
 File `.geojson` yang dihasilkan dapat langsung digunakan di:
 
-- **[QGIS](https://qgis.org/)** — Drag & drop file `.geojson` ke layer panel
-- **[PostGIS](https://postgis.net/)** — Import menggunakan `ogr2ogr` atau `shp2pgsql`
-- **[Leaflet.js](https://leafletjs.com/)** / **[Mapbox](https://www.mapbox.com/)** — Load via `fetch()` atau API layer
-- **[geojson.io](https://geojson.io/)** — Preview online langsung di browser
+- **[QGIS](https://qgis.org/)** - Drag & drop file `.geojson` ke layer panel
+- **[PostGIS](https://postgis.net/)** - Import menggunakan `ogr2ogr` atau `shp2pgsql`
+- **[Leaflet.js](https://leafletjs.com/)** / **[Mapbox](https://www.mapbox.com/)** - Load via `fetch()` atau API layer
+- **[geojson.io](https://geojson.io/)** - Preview online langsung di browser
