@@ -12,17 +12,6 @@
 
 ---
 
-## 📁 Struktur Repositori
-
-```
-Sesi 3/
-├── gis_asset_processor.py      # Script utama pemrosesan data GIS
-├── asset_inspection.geojson    # Output GeoJSON hasil konversi data sampel
-└── README.md                   # Dokumentasi proyek
-```
-
----
-
 ## ⚙️ Fitur Utama
 
 | Fitur | Deskripsi |
